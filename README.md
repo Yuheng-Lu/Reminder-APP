@@ -23,4 +23,4 @@
 
 * The APP will start on PORT 3000, and the data can be retrieved on PORT 5000, though they are on your local machine.
 
-* :)
+* :) Enjoy!
